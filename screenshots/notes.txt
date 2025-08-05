@@ -8,3 +8,5 @@
 5. git add filename/git add . (to stage or index)
 6.git commit -m "your message"(give message)
 7. git push -u origin main (dhakka) 
+8. git touch anyfilename (add file)
+9. git mkdir (make directory)
