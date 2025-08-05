@@ -10,3 +10,9 @@
 7. git push -u origin main (dhakka) 
 8. git touch anyfilename (add file)
 9. git mkdir (make directory)
+10.sort
+11.chmod 0--->no prmission
+	1---->execute only
+	2----->write only
+	3-----> read only
+chmod 700 demo.txt
