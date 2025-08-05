@@ -1,0 +1,10 @@
+####class notes#####
+0. git remote add origin {link} (add repo)
+0a. git branch -M main (master ---> main)
+1. cd (go to directory)
+2. ls (view all )
+3. git init (git initialization)
+4. git status( to check git commit or not)
+5. git add filename/git add . (to stage or index)
+6.git commit -m "your message"(give message)
+7. git push -u origin main (dhakka) 
