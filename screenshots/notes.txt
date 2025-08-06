@@ -11,8 +11,14 @@
 8. git touch anyfilename (add file)
 9. git mkdir (make directory)
 10.sort
+10a.cat
 11.chmod 0--->no prmission
 	1---->execute only
 	2----->write only
-	3-----> read only
+	4-----> read only
 chmod 700 demo.txt
+12.git branch (to check no of branch)
+13.git branch xyz(create new branch)
+14.git switch/checkout(to switch to another branch)
+14a. git switch -c qwer (to create and switch to new one)
+14b. git checkout -b qwer ("" "")
